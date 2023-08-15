@@ -810,7 +810,8 @@ padding-bottom: 5px;
   .yvaa-section.second-fet .section .main-feature {
     gap: 0;
   }
-  .side-form {
+  .side-form,
+  .yvaa-section.thrid-fet .section .img{
     order: -1;
   }
   .features .main-feature .feature {
